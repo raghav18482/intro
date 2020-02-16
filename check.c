@@ -6,6 +6,6 @@ void main()
     int *p=arr+1;
     int *q=arr+6;
     printf("%d\n", q-p);
-    
+    //edited by raghav
 
 }
